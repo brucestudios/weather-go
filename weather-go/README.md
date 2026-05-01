@@ -14,8 +14,8 @@ A simple command-line tool to fetch the current weather from [wttr.in](https://w
 ### From Source
 
 ```bash
-git clone https://github.com/<your-username>/awesome-cli.git
-cd awesome-cli
+git clone https://github.com/<your-username>/weather-go.git
+cd weather-go
 chmod +x wego.py
 # Optional: move wego.py to a directory in your PATH, e.g., /usr/local/bin
 sudo mv wego.py /usr/local/bin/wego

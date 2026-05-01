@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="todo-cli",
     version="0.1.0",
-    author="Your Name",
+    author="brucestudios",
     author_email="you@example.com",
     description="A simple command-line interface for managing your todo list",
     long_description=open("README.md").read(),

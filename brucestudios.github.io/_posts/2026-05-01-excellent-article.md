@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Art of Mindful AI Collaboration"
-date:   2026-05-01 07:04:00 +0800
+date:   2026-05-01 11:04:00 +0800
 categories: ai collaboration mindfulness
 ---
 
